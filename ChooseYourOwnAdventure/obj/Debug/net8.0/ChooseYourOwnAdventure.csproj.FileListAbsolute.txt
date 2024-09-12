@@ -1,0 +1,15 @@
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.exe
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.deps.json
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.runtimeconfig.json
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.dll
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.pdb
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.sourcelink.json
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.dll
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\refint\ChooseYourOwnAdventure.dll
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.pdb
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\src\Codecademy-Practice-Exercises\ChooseYourOwnAdventure\obj\Debug\net8.0\ref\ChooseYourOwnAdventure.dll

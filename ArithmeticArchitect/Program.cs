@@ -16,7 +16,7 @@ class Program
         double monumentArea = CalculateMonumentArea(rectangleArea, halfCircleArea, triangleArea);
         Console.WriteLine($"Value for monumentArea is {monumentArea}");
         double monumentFlooringCost = CalculateFlooringCostForMonument(monumentArea);
-        Console.WriteLine($"Total flooring cost for monument is: {monumentFlooringCost}");
+        Console.WriteLine($"Total flooring cost for monument is: {monumentFlooringCost} pesos");
     }
 
     static double CalculateRectangleArea(double length, double width)

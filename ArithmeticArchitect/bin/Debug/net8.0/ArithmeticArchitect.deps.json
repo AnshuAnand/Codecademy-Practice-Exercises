@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ArchitectArithmetic/1.0.0": {
+      "ArithmeticArchitect/1.0.0": {
         "runtime": {
-          "ArchitectArithmetic.dll": {}
+          "ArithmeticArchitect.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ArchitectArithmetic/1.0.0": {
+    "ArithmeticArchitect/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

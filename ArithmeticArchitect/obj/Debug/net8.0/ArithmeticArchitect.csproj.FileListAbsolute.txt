@@ -1,0 +1,15 @@
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\bin\Debug\net8.0\ArithmeticArchitect.exe
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\bin\Debug\net8.0\ArithmeticArchitect.deps.json
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\bin\Debug\net8.0\ArithmeticArchitect.runtimeconfig.json
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\bin\Debug\net8.0\ArithmeticArchitect.dll
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\bin\Debug\net8.0\ArithmeticArchitect.pdb
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.AssemblyInfoInputs.cache
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.AssemblyInfo.cs
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.csproj.CoreCompileInputs.cache
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.sourcelink.json
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.dll
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\refint\ArithmeticArchitect.dll
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.pdb
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ArithmeticArchitect.genruntimeconfig.cache
+C:\src\Codecademy-Practice-Exercises\ArithmeticArchitect\obj\Debug\net8.0\ref\ArithmeticArchitect.dll

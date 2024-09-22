@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\Codecademy-Practice-Exercises\\ArchitectArithmetic\\ArchitectArithmetic.csproj": {}
+    "C:\\src\\Codecademy-Practice-Exercises\\ArithmeticArchitect\\ArithmeticArchitect.csproj": {}
   },
   "projects": {
-    "C:\\src\\Codecademy-Practice-Exercises\\ArchitectArithmetic\\ArchitectArithmetic.csproj": {
+    "C:\\src\\Codecademy-Practice-Exercises\\ArithmeticArchitect\\ArithmeticArchitect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\Codecademy-Practice-Exercises\\ArchitectArithmetic\\ArchitectArithmetic.csproj",
-        "projectName": "ArchitectArithmetic",
-        "projectPath": "C:\\src\\Codecademy-Practice-Exercises\\ArchitectArithmetic\\ArchitectArithmetic.csproj",
+        "projectUniqueName": "C:\\src\\Codecademy-Practice-Exercises\\ArithmeticArchitect\\ArithmeticArchitect.csproj",
+        "projectName": "ArithmeticArchitect",
+        "projectPath": "C:\\src\\Codecademy-Practice-Exercises\\ArithmeticArchitect\\ArithmeticArchitect.csproj",
         "packagesPath": "C:\\Users\\Anshu.Anand\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\Codecademy-Practice-Exercises\\ArchitectArithmetic\\obj\\",
+        "outputPath": "C:\\src\\Codecademy-Practice-Exercises\\ArithmeticArchitect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anshu.Anand\\AppData\\Roaming\\NuGet\\NuGet.Config",

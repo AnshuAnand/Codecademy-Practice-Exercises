@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticArchitect", "ArithmeticArchitect\ArithmeticArchitect.csproj", "{0436B013-D43E-4735-80A4-640673F87F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordChecker", "PasswordChecker\PasswordChecker.csproj", "{74C92CEE-3A8D-4FFC-A779-86838B184422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseYourOwnAdventure", "ChooseYourOwnAdventure\ChooseYourOwnAdventure.csproj", "{B409C5A3-C21A-457B-AD7C-B2B6F3A46B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingPlayground", "CodingPlayground\CodingPlayground.csproj", "{FA7D1E63-202F-4BAB-9E24-711E5461F141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0436B013-D43E-4735-80A4-640673F87F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0436B013-D43E-4735-80A4-640673F87F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0436B013-D43E-4735-80A4-640673F87F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0436B013-D43E-4735-80A4-640673F87F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C92CEE-3A8D-4FFC-A779-86838B184422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C92CEE-3A8D-4FFC-A779-86838B184422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C92CEE-3A8D-4FFC-A779-86838B184422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C92CEE-3A8D-4FFC-A779-86838B184422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B409C5A3-C21A-457B-AD7C-B2B6F3A46B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B409C5A3-C21A-457B-AD7C-B2B6F3A46B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B409C5A3-C21A-457B-AD7C-B2B6F3A46B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B409C5A3-C21A-457B-AD7C-B2B6F3A46B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7D1E63-202F-4BAB-9E24-711E5461F141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7D1E63-202F-4BAB-9E24-711E5461F141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7D1E63-202F-4BAB-9E24-711E5461F141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7D1E63-202F-4BAB-9E24-711E5461F141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

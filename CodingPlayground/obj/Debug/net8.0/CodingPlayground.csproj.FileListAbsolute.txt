@@ -1,0 +1,15 @@
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\bin\Debug\net8.0\CodingPlayground.exe
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\bin\Debug\net8.0\CodingPlayground.deps.json
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\bin\Debug\net8.0\CodingPlayground.runtimeconfig.json
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\bin\Debug\net8.0\CodingPlayground.dll
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\bin\Debug\net8.0\CodingPlayground.pdb
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.AssemblyInfoInputs.cache
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.AssemblyInfo.cs
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.csproj.CoreCompileInputs.cache
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.sourcelink.json
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.dll
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\refint\CodingPlayground.dll
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.pdb
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\CodingPlayground.genruntimeconfig.cache
+C:\src\Codecademy-Practice-Exercises\CodingPlayground\obj\Debug\net8.0\ref\CodingPlayground.dll

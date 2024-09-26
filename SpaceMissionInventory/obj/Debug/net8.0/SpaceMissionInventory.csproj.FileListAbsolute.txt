@@ -1,0 +1,15 @@
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.exe
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.deps.json
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.runtimeconfig.json
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.dll
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.pdb
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.AssemblyInfoInputs.cache
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.AssemblyInfo.cs
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.csproj.CoreCompileInputs.cache
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.sourcelink.json
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.dll
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\refint\SpaceMissionInventory.dll
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.pdb
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.genruntimeconfig.cache
+C:\src\Codecademy-Practice-Exercises\SpaceMissionInventory\obj\Debug\net8.0\ref\SpaceMissionInventory.dll

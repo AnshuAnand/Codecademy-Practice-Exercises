@@ -17,6 +17,10 @@ class Program
         for (int i = 0; i < secretMessage.Length; i++)
         {
             char letter = secretMessage[i];
+            if (Char.IsSymbol(letter) || Char.IsPunctuation(letter)){
+                letter = secretMessage[i+1];
+                i++;
+            }
             int positionInAlphabet = Array.IndexOf(alphabet, letter);
             int incrementByThree = (positionInAlphabet + 3) % alphabet.Length;
             char encryptedLetter = alphabet[incrementByThree];
